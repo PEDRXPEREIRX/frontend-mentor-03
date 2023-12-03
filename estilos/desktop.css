@@ -1,0 +1,36 @@
+@media screen and (max-width: 1201px) {
+    .container {
+        display: flex;
+        width: 500px;
+        height: 350px;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.233);
+    }
+
+    .content-img {
+        background-color: url(../images/image-product-desktop.jpg) center center no-repeat fixed;
+        background-size: cover;
+        width: 50%;
+        height: 350px;
+    }
+
+    .content {
+        width: 50%;
+    }
+
+    .content .sub-title {
+        font-size: 10px;
+    }
+
+    .content > h1 {
+        font-size: 1.9rem;
+        line-height: 1.8rem;
+    }
+
+    .content > p {
+        font-size: 13px;
+    }
+
+    .content > button {
+        width: 200px;
+    }
+}
