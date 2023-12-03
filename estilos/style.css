@@ -34,7 +34,7 @@ body {
     overflow: hidden;
     width: 100%;
     height: 222px;
-    background: url(../images/image-product-desktop.jpg) top center no-repeat fixed;
+    background: url(../images/image-product-desktop.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
